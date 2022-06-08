@@ -16,5 +16,9 @@ The total time between a set of actions being proposed and those being executed 
 - Timelock period: 1 day
 
 ## How to vote on proposals
-New DAO proposals can be created and voted on through the Tally interface: https://www.tally.xyz/governance/eip155:1:0x0BEF27FEB58e857046d630B2c03dFb7bae567494.
+New DAO proposals can be created and voted on through the [Tally interface](https://www.tally.xyz/governance/eip155:1:0x0BEF27FEB58e857046d630B2c03dFb7bae567494).
 
+`Delegation & Voting`: 
+  - In order for your TRIBE tokens to be used in DAO votes, you must delegate them to an address or yourself. 
+  - TRIBE being lent in fuse cannot be delegated unless you withdraw to delegate
+  - There is a timelock on delegation and vote-eligibility such that there is a 24(TODO: FACT CHECK THIS)hr window before delegated tokens can be voted with
